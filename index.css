@@ -1,0 +1,155 @@
+*{
+ margin: 0;
+ padding: 0;
+
+}
+body{
+background-color: #eee;
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.container{
+
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+
+
+}
+.header{
+
+
+
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+
+
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+
+
+
+}
+h1,h2,h3,h4,h5,h6{
+color: #11999e;
+
+
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+ 
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+
+}
+.header-contact a:hover{
+
+    color: tomato;
+    text-decoration: underline;
+
+}
+  .div-clear{
+    clear: both;
+  }  
+
+  hr{
+    border: solid black 3px;
+    margin: 20px auto;
+    border-bottom: none;
+    width: 100%;
+    
+  }
+  
+
+  .personal-section{
+
+
+
+  }
+.content{
+    margin: 30px;
+
+
+
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+  
+
+
+}
+.right-div{
+    width: 70%;
+    float:right;
+    
+
+
+
+}
+.common-hr{
+
+    border: 1px solid black;
+    margin-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.education-template-left{
+
+    width: 45%;
+    float: left;
+
+
+
+}
+
+.education-template-right{
+    width: 45%;
+    float: right;
+
+
+
+}
+
+.bottom-container{
+
+    background-color: black;
+  
+    text-align: center;
+    padding: 10px;
+
+}
+.bottom-container a{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+
+
+}
+.bottom-container a:hover{
+
+    color: tomato;
+    text-decoration: underline;
+}
+.bottom-container p{
+    margin: 20px;
+    color: white;
+    margin-top: 20px;
